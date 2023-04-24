@@ -50,3 +50,8 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+启动：
+cnpm instll
+cnpm run dev
+访问地址：
+http://localhost:5173/
