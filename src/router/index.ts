@@ -15,6 +15,11 @@ const router = createRouter({
       component: () => import('../views/TemplateView.vue')
     },
     {
+      path: '/table',
+      name: 'table',
+      component: () => import('../views/TableView.vue')
+    },
+    {
       path: '/about',
       name: 'about',
       // route level code-splitting
